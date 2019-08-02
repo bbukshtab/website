@@ -6,4 +6,4 @@
 
 This is Readme file for this exesize.
 
-Removed some lines second time
+Removed some lines second added ...
