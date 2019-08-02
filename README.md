@@ -7,4 +7,4 @@
 This is Readme file for this exesize.
 
 Removed some lines second added ...
-from sublime
+from VS code
